@@ -54,7 +54,7 @@ spec:
               protocol: TCP
           env:
             - name: stage
-              value: "OpenShift with gitops"
+              value: "OpenShift with gitops and something else"
 ---
 apiVersion: route.openshift.io/v1
 kind: Route
